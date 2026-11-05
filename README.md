@@ -1,7 +1,5 @@
 # Chef's Menu Manager — Final PoE (MAST5112)
 
-Drop these files into your existing Part 2 project folder (same folder as
-package.json), replacing App.js and theme.js. No new packages are needed.
 
 ## What changed from Part 2
 - Edit and delete menu items (delete asks for confirmation)
